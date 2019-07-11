@@ -665,6 +665,10 @@ body {
     margin: 71px 0 140px 0;
 }
 
+.products-range__refresh-button-hover:hover {        
+        box-shadow: 0 0 1px 4px grey;    
+}
+
 .contacts_style-contacts {
     margin: 71px -15px 122px;
     display: flex;
